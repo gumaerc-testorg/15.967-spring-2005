@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains types of evaluation, questions answered by process
   evaluation, and strategies for impact evaluations.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-967-managing-and-volunteering-in-the-non-profit-sector-spring-2005/0d237f5390c47df7ec17b2fd193c38c2_nonprofitclass5.pdf
+file: /media/courses/15-967-managing-and-volunteering-in-the-non-profit-sector-spring-2005/0d237f5390c47df7ec17b2fd193c38c2_nonprofitclass5.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: nonprofitclass5.pdf
 uid: 0d237f53-90c4-7df7-ec17-b2fd193c38c2

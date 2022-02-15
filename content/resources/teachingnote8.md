@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This handout contains a series of questions related to the case study.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-967-managing-and-volunteering-in-the-non-profit-sector-spring-2005/614cdd37b3fb892022af0d9fef455c08_teachingnote8.pdf
+file: /media/courses/15-967-managing-and-volunteering-in-the-non-profit-sector-spring-2005/614cdd37b3fb892022af0d9fef455c08_teachingnote8.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: teachingnote8.pdf
 uid: 614cdd37-b3fb-8920-22af-0d9fef455c08
