@@ -5,6 +5,7 @@ file: /courses/15-967-managing-and-volunteering-in-the-non-profit-sector-spring-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: nonprofitclass4.pdf
 uid: 0299be64-9405-0bf8-84a4-dd1fcfb4f399
 ---
 Lecture presentation exploring the week's case study on the NAACP.
-

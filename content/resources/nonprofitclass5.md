@@ -6,6 +6,7 @@ file: /courses/15-967-managing-and-volunteering-in-the-non-profit-sector-spring-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: nonprofitclass5.pdf
 uid: 0d237f53-90c4-7df7-ec17-b2fd193c38c2
 ---
 This resource contains types of evaluation, questions answered by process evaluation, and strategies for impact evaluations.
-

@@ -6,6 +6,7 @@ file: /courses/15-967-managing-and-volunteering-in-the-non-profit-sector-spring-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: nonprofitclass1.pdf
 uid: 8a1048a9-d25b-a81f-6d3e-f68611a5e4c2
 ---
 Lecture presentation providing an introduction to the course and an overview of non-profits.
-
