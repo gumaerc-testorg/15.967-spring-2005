@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture presentation detailing the STRIVE program.
 file: /courses/15-967-managing-and-volunteering-in-the-non-profit-sector-spring-2005/88ead94291bb1117bff4443bc06953bf_nonprofitclass2.pdf
+file_size: 60203
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
