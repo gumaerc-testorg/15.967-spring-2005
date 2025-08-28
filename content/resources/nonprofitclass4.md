@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation exploring the week's case study on the NAACP.
-file: /courses/15-967-managing-and-volunteering-in-the-non-profit-sector-spring-2005/0299be6494050bf884a4dd1fcfb4f399_nonprofitclass4.pdf
+file: /ol-ocw-studio-app/courses/15-967-managing-and-volunteering-in-the-non-profit-sector-spring-2005/0299be6494050bf884a4dd1fcfb4f399_nonprofitclass4.pdf
 file_size: 19547
 file_type: application/pdf
 learning_resource_types:
