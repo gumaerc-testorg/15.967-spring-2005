@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This handout contains a series of questions related to the case study.
-file: /courses/15-967-managing-and-volunteering-in-the-non-profit-sector-spring-2005/03c348e80719c2f5e43b231f2573ccc2_teachingnote1.pdf
+file: /ol-ocw-studio-app/courses/15-967-managing-and-volunteering-in-the-non-profit-sector-spring-2005/03c348e80719c2f5e43b231f2573ccc2_teachingnote1.pdf
 file_size: 39877
 file_type: application/pdf
 learning_resource_types:
